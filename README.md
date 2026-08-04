@@ -9,7 +9,7 @@ Building production systems at the intersection of computer vision, LLMs and aut
 - ✅ [OEM Validation](https://github.com/MatiasMaher78/oem-validation-portfolio) — Automated data validation for automotive parts catalogs
 - 📄 [Vehicle Data Print](https://github.com/MatiasMaher78/vehicle-data-print-portfolio) — Full-stack automation for automotive homologation documentation
 
-**Stack:** Python · SQL · Pandas · FastAPI · Docker · Playwright · YOLO · CVAT · LLMs (OpenAI) · FastAPI · React
+**Stack:** Python · SQL · Pandas · FastAPI · Docker · Playwright · YOLO · CVAT · LLMs (OpenAI) · React
 
 **Open to:** Remote roles in Data Engineering · ML Engineering · Computer Vision
 
