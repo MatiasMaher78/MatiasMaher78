@@ -7,7 +7,7 @@ Currently building: Autoparts Integrator — YOLO + LLM system for automated aut
 **Public projects:**
 - 🔧 [OEM Pricing](https://github.com/MatiasMaher78/oem-pricing-portfolio) — ETL pricing pipeline: scraping → cleaning → margin calculator → ERP upload
 - ✅ [OEM Validation](https://github.com/MatiasMaher78/oem-validation-portfolio) — Automated data validation for automotive parts catalogs
-- 📄 [Vehicle Data Print](https://github.com/MatiasMaher78/vehicle-data-print-portfolio) — Full-stack automation for automotive homologation documentation · [demo video](https://youtu.be/CwCSCGocNyU)
+- 📄 [Vehicle Data Print](https://github.com/MatiasMaher78/vehicle-data-print-portfolio) — Full-stack automation for automotive homologation documentation · [demo video](https://www.youtube.com/watch?v=9V5ZQLSo84M)
   
 **Stack:** Python · SQL · Pandas · FastAPI · Docker · Playwright · YOLO · CVAT · LLMs (OpenAI) · React
 
