@@ -3,7 +3,7 @@
 Data Engineer with an automotive background. I build ETL pipelines, workflow automation and data-quality tooling for real operational processes, and I work on computer vision dataset engineering.
 
 **Experience**
-- **Reciclauto** — Data Engineer (Automation & AI Systems) · Nov 2024 – Oct 2026 · weekly OEM pricing ETL that replaced an outsourced process (~250–300 products/week), Playwright-based OEM reference validation, Power BI data-quality dashboard
+- **Automotive parts recycler (Spain)** — Data Engineer (Automation & AI Systems) · Nov 2024 – Oct 2026 · weekly OEM pricing ETL that replaced an outsourced process (~250–300 products/week), Playwright-based OEM reference validation, Power BI data-quality dashboard
 - **COC Europe** — Automotive Homologation Technician · Apr 2022 – Oct 2024
 
 **Independent projects**
